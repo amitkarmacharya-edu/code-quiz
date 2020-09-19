@@ -26,10 +26,10 @@ const htmlQuestions = [
     answer: "img"
   },
   {
-    question: "Which tag do you use to link a imgae to the webpage?",
-    options: ["link", "img", "image", "a"],
-    answer: "img"    
-  },
+    question: "Which tag do you use to link another website?",
+    options: ["link", "page", "website", "a"],
+    answer: "a"    
+  }
 ];
 
 // css questions
@@ -60,7 +60,7 @@ const cssQuestions = [
     question: `In css, Which of the following option do we use to change the font color?`,
     options: ["font-color", "text-color", "fontColor", "color"],
     answer: "color"
-  },
+  }
 ];
 
 // js quesitons
@@ -79,7 +79,7 @@ const jsQuestions = [
       "JSON.PARSE()",
       "JSON.parse()"
     ],
-    answer: "JSON.parese()"
+    answer: "JSON.parse()"
   },
   {
     question:
@@ -106,5 +106,5 @@ const jsQuestions = [
     question: "which tag do we use to link an external javascript file?",
     options: ["script", "link", "meta", "a"],
     answer: "script"
-  },
+  }
 ];
