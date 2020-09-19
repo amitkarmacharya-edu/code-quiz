@@ -54,7 +54,8 @@ const scoreBoardTemplate = `
                 <input id="name" class="form-control mr-sm-2" type="text" placeholder="Enter Your Name" aria-label="Enter your name">
                 <button id="save-score" class="btn btn-primary my-2 my-sm-0" type="submit">Save</button>
             </div>
-            <span class="score bg-info p-2 text-white font-weight-bold rounded"></span>
+            <span class=" p-2 text-white font-weight-bold rounded"> Game Over </span>
+            <span class="score  p-2 text-white font-weight-bold rounded"></span>
         </form>
     </div>
     <ul id="score-board" class="list-group list-group-flush">

@@ -21,7 +21,7 @@ const htmlQuestions = [
     answer: "link"
   },
   {
-    question: "Which tag do you use to link a imgae to the webpage?",
+    question: "Which tag do you use to link a image to the webpage?",
     options: ["link", "img", "image", "a"],
     answer: "img"
   },
