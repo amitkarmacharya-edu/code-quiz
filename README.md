@@ -8,7 +8,7 @@ the quiz. After the selection, user starts the game. There is a timer in game wh
 ![Screen shot of the game](./Assets/image/snapshot.png)
 
 ### Technologies 
-    HTML5, CSS3, Bootstrap 4, Git, Javascript, jQuery, openweather API 
+    HTML5, CSS3, Bootstrap 4, Git, Javascript, jQuery 
   
 
 ### The MIT License (MIT)
@@ -35,4 +35,5 @@ the quiz. After the selection, user starts the game. There is a timer in game wh
   
   ### Author Info
   
-    LinkedIn - [Amit karmacharya](https://www.linkedin.com/in/amit-karmacharya-b344731ab/)
+  LinkedIn :
+  [Amit karmacharya](https://www.linkedin.com/in/amit-karmacharya-b344731ab/)
